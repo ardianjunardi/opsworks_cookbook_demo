@@ -5,7 +5,7 @@ license 'MIT'
 description 'Installs/Configures opsworks_cookbook_demo'
 long_description 'Installs/Configures opsworks_cookbook_demo'
 version '0.1.0'
-chef_version '>= 13.0'
+chef_version '>= 12.0'
 supports 'ubuntu'
 
 # The `issues_url` points to the location where issues for this cookbook are
