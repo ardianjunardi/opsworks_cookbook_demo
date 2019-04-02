@@ -17,3 +17,5 @@ issues_url 'https://github.com/williamn/opsworks_cookbook_demo/issues'
 # a Supermarket.
 #
 source_url 'https://github.com/williamn/opsworks_cookbook_demo'
+
+depends "application", "5.0.0"
